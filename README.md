@@ -1,2 +1,2 @@
 # newer-repo
-just a new 
+a new
